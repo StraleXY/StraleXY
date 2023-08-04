@@ -10,7 +10,7 @@ I'm a student software developer who loves building cool stuff! Constantly tinke
 ![JetpackCompose](https://img.shields.io/badge/jetpack_compose-black.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
